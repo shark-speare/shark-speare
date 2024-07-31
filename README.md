@@ -1,17 +1,15 @@
 ## About meeeee ✨
-I'm currently a high school student 📚
+我現在是個暑假很像烤爛的馬鈴薯的高中生 📚
 
-I'm interested in programming languages, and I'm learning C++ now 🔮
+我對程式語言很有興趣，我現在正在學C++ 🔮
 
 ## Projects
-[A little discord bot](https://github.com/shark-speare/Shibabot) that allows you to get weather, recent earthquakes and give you random food which helps you decide what to eat
-Written in Python, Traditional Chinese only.
-
-There's no more projects...
-I promise there will be more in future
+[A little discord bot](https://github.com/shark-speare/Shibabot) 可以讓你查詢天氣、最近的地震，還可以幫你決定等一下要吃什麼
+沒有其他了...
+我保證未來會有更多啦
 
 ## To-do
 - [ ] Learn C++
 - [ ] APCS
-- [ ] Come up with new idea of discord bot
-- [ ] Make a dynamic weather report here
+- [ ] 想出Discord機器人新功能
+- [ ] 在這裡做一個動態天氣狀況
