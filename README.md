@@ -13,4 +13,5 @@ I promise there will be more in future
 ## To-do
 - [ ] Learn C++
 - [ ] APCS
-- [ ] Com up with new idea of discord bot
+- [ ] Come up with new idea of discord bot
+- [ ] Make a dynamic weather report here
